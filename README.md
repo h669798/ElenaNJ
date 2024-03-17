@@ -14,6 +14,3 @@
 📌 Opplært i Java SE, PostgreSQL (SQL, ORM, NoSQL), MATLAB
 
 📌 Selvlært i C#, Python
-
-
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp0bzZjeWo1bzRtMHN3YWV2ZGQ3Ymdnc2VsMHZobDByMWZwNHBheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.gif)
