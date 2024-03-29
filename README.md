@@ -9,7 +9,7 @@
           
 <br>
 
-📌 En 24-år-gammel dataingeniør-student (første år fullført)!
+📌 En 24-år-gammel dataingeniør-student!
 
 📌 Opplært i Java SE, PostgreSQL (SQL, ORM, NoSQL), MATLAB
 
