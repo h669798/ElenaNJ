@@ -11,7 +11,7 @@
           
 <br>
 
-📌 En 24-år-gammel dataingeniør-student på tredje semester!
+📌 En 25-år-gammel dataingeniør-student på fjerde semester!
 
 📌 Opplært i spesielt Java SE + Spring, PostgreSQL og kommandolinje-språk (Bash).
 
